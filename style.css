@@ -1,0 +1,12 @@
+* {
+    background-color: antiquewhite;
+}
+
+.highlight {
+    background-color: gold;
+    font-weight: bold;
+}
+
+.inputActive {
+    border: blue 3px solid;
+}
